@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Jesus Tadeu Bressiano
+# 👋 Jesus Tadeu
 
 
 > 💡 **Sobre mim**
@@ -9,7 +9,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## 🤖 Linguagens e Tecnologias
 
 **Linguagens:** <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> <img src="https://img.shields.io/badge/CSharp-239120?logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
 
@@ -20,7 +20,19 @@
 **Games/3D:** <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/Unreal%20Engine-313131?logo=unrealengine&logoColor=white"> <img src="https://img.shields.io/badge/CSharp-239120?logo=csharp&logoColor=white">
 
 ---
+### 📊 Estatísticas
 
+<p>
+ 
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=taads&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 
 
 
