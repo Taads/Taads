@@ -3,7 +3,7 @@
 
 > 💡 **Sobre mim**
 >
-> * 🎓 Estudante de Ciência da Computação 
+> * 🎓 Formando em Ciência da Computação 
 > * 🚀 Construindo projetos de Full Stack
 > * 📍 Bauru–SP (BR)
 
