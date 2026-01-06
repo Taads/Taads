@@ -20,12 +20,25 @@
 **Games/3D:** <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/Unreal%20Engine-313131?logo=unrealengine&logoColor=white"> <img src="https://img.shields.io/badge/CSharp-239120?logo=csharp&logoColor=white">
 
 ---
-### ⚡ Status Atual
 
-```text
-🟢 Coding
-🟡 Debugging
-🔴 Production
+Você pode trocar o emoji quando quiser.
+
+---
+
+## 🤖 Opção 3 — “Terminal” fake (fica muito legal)
+```md
+### 💻 Terminal do Dev
+
+```bash
+$ whoami
+> taads
+
+$ skills --list
+> HTML, CSS, JS, C#, Unity
+
+$ status
+> Aprendendo • Criando • Errando • Evoluindo
+
 
 
 
