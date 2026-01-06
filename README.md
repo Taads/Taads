@@ -21,6 +21,14 @@
 
 ---
 
+### ⚡ Status Atual
+
+```text
+🟢 Coding
+🟡 Debugging
+🔴 Production
+
+
 Você pode trocar o emoji quando quiser.
 
 ---
@@ -38,6 +46,21 @@ $ skills --list
 
 $ status
 > Aprendendo • Criando • Errando • Evoluindo
+
+
+🔥 Essa é uma das favoritas em README criativos.
+
+---
+
+## 🐱 Opção 4 — GIF divertido (sem API quebrando)
+```md
+### 🐱 Em ação
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+
 
 
 
