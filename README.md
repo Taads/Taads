@@ -21,16 +21,7 @@
 
 ---
 
-### 🎮 Dev Status
 
-🟢 Coding  
-🟡 Debugging  
-🔴 Production  
-
-### 🧙‍♂️ Dev RPG
-🧠 Código: ██████████  
-☕ Café: ████████░░  
-🐛 Bugs derrotados: ∞  
 
 
 
