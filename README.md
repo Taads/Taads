@@ -21,44 +21,11 @@
 
 ---
 
-### ⚡ Status Atual
-
-```text
-🟢 Coding
-🟡 Debugging
-🔴 Production
-
-
-Você pode trocar o emoji quando quiser.
-
----
-
-## 🤖 Opção 3 — “Terminal” fake (fica muito legal)
-```md
-### 💻 Terminal do Dev
-
-```bash
-$ whoami
-> taads
-
-$ skills --list
-> HTML, CSS, JS, C#, Unity
-
-$ status
-> Aprendendo • Criando • Errando • Evoluindo
-
-
-🔥 Essa é uma das favoritas em README criativos.
-
----
-
-## 🐱 Opção 4 — GIF divertido (sem API quebrando)
-```md
-### 🐱 Em ação
-
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <b>⚡ Desenvolvedor em constante evolução ⚡</b><br>
+  <i>Front-end • C# • Unity • Café</i>
 </p>
+
 
 
 
