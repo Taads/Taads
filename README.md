@@ -21,10 +21,17 @@
 
 ---
 
-<p align="center">
-  <b>⚡ Desenvolvedor em constante evolução ⚡</b><br>
-  <i>Front-end • C# • Unity • Café</i>
-</p>
+### 🎮 Dev Status
+
+🟢 Coding  
+🟡 Debugging  
+🔴 Production  
+
+### 🧙‍♂️ Dev RPG
+🧠 Código: ██████████  
+☕ Café: ████████░░  
+🐛 Bugs derrotados: ∞  
+
 
 
 
