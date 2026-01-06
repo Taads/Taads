@@ -20,9 +20,12 @@
 **Games/3D:** <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/Unreal%20Engine-313131?logo=unrealengine&logoColor=white"> <img src="https://img.shields.io/badge/CSharp-239120?logo=csharp&logoColor=white">
 
 ---
-### 👀 Visitas no Perfil
+### 🎮 Modo Dev Ativado
 
-![Profile Views](https://komarev.com/ghpvc/?username=taads&color=blue)
+- 🧠 Pensando em código…
+- ☕ Café em progresso
+- 🐛 Bugs sendo caçados
+- 🚀 Deploy quando der coragem
 
 
 
